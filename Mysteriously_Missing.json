@@ -18,11 +18,11 @@
             }
         ],
         "dateAdded": 1696033867,
-        "dateLastModified": 1694017920
+        "dateLastModified": 1696736716
     },
     "book": [
         {
-            "name": "ysteriously Missing and Merrily Met - Sample",
+            "name": "Mysteriously Missing and Merrily Met - Sample",
             "id": "MysteriouslyMissing",
             "source": "MysteriouslyMissing",
             "published": "2021-11-23",
@@ -54,7 +54,7 @@
             "data": [
                 {
                     "type": "section",
-                    "name": "ysteriously Missing and Merrily Met - Sample",
+                    "name": "Mysteriously Missing and Merrily Met - Sample",
                     "page": 1,
                     "entries": [
                         {
@@ -139,7 +139,7 @@
                     ],
                     "colStyles": [
                         "col-1 text-center",
-                        "col-11"
+                        "col-8"
                     ],
                     "rows": [
                         [
@@ -340,7 +340,7 @@
                                     "pad": true
                                 }
                             },
-                            "The cahracter made friends with an important, powerful NPC who had them as their guest at their abode. Roll 1d6 for more details about the NPC:",
+                            "The character made friends with an important, powerful NPC who had them as their guest at their abode. Roll 1d6 for more details about the NPC:",
                             {
                                 "type": "table",
                                 "colLabels": [
@@ -427,7 +427,7 @@
                     ],
                     "colStyles": [
                         "col-1 text-center",
-                        "col-11"
+                        "col-8"
                     ],
                     "rows": [
                         [
@@ -906,10 +906,7 @@
                                     "pad": true
                                 }
                             },
-                            "The character saw something shining in a glade, a sword stuck into a rock! The player must make a Strength check: if the check fails, their Strength increases by 1; if the check succeeds, they got the sword: roll a d100.",
-                            "1-50: It's just an old, rusted sword;",
-                            "51-99: it is a random magic sword;",
-                            "100: it is a random sentient sword."
+                            "The character saw something shining in a glade, a sword stuck into a rock! The player must make a Strength check: if the check fails, their Strength increases by 1; if the check succeeds, they got the sword: roll a d100. 1-50: It's just an old, rusted sword; 51-99: it is a random magic sword; 100: it is a random sentient sword."
                         ],
                         [
                             {
@@ -959,7 +956,7 @@
                                     "pad": true
                                 }
                             },
-                            "The cahracter got lost and stumbled upon a mysterious wanderer. Make a standard Reaction roll (apply the NPC reaction modifier due to Charisma). The wanderer actually is a Golden Dragon in human form. Whatever the Reaction result, this encounter does not become a combat, but the dragon might keep an eye on the character's adventures."
+                            "The character got lost and stumbled upon a mysterious wanderer. Make a standard Reaction roll (apply the NPC reaction modifier due to Charisma). The wanderer actually is a Golden Dragon in human form. Whatever the Reaction result, this encounter does not become a combat, but the dragon might keep an eye on the character's adventures."
                         ]
                     ]
                 }
